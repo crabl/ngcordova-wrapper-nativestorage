@@ -1,0 +1,19 @@
+{
+  "name": "ngcordova-wrapper-nativestorage",
+  "version": "1.0.0",
+  "description": "***UPDATE***: The plugin can be found in Ionic 2 (http://ionicframework.com/docs/v2/native/nativestorage/).",
+  "main": "dist/ngcordova-wrapper-nativestorage.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crabl/ngcordova-wrapper-nativestorage.git"
+  },
+  "author": "Gilles Callebaut <gilles.callebaut.cs@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/crabl/ngcordova-wrapper-nativestorage/issues"
+  },
+  "homepage": "https://github.com/crabl/ngcordova-wrapper-nativestorage#readme"
+}
